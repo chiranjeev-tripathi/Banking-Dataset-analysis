@@ -61,7 +61,7 @@ This dashboard provides a high-level overview of banking operations by analyzing
 
 ### Dashboard Screenshot
 
-![Dashboard 1]()
+![Dashboard 1](https://github.com/chiranjeev-tripathi/Banking-Dataset-analysis/blob/main/Screenshot%202026-07-11%20020824.png)
 
 ---
 
