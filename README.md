@@ -80,7 +80,7 @@ This dashboard focuses on detailed banking performance by analyzing transaction 
 
 ### Dashboard Screenshot
 
-![Dashboard 2](Images/Dashboard2.png)
+![Dashboard 2](https://github.com/chiranjeev-tripathi/Banking-Dataset-analysis/blob/main/Screenshot%202026-07-11%20020833.png)
 
 ---
 
